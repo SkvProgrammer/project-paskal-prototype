@@ -1,1 +1,1 @@
-it will take some time to build a prototype that actually looks like a prototype ;)
+Once the prototype will be ready this repo will go private ;)
